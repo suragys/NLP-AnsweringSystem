@@ -20,4 +20,3 @@ The Libraries that are need for the code to run are
 * Pylab from matplotlib 
 * Range from six.moves
 * TSNE from sklearn.manifold
-* re
